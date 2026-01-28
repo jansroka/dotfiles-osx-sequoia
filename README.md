@@ -1,3 +1,13 @@
+# Archived Repository
+
+This repo served me well for the 13 months that I used OSX Sequoia (from October 2024 to December 2025). But since I have moved on from OSX Sequoia to OSX Tahoe in December 2025, this repo is now archived. This archived state is a snapshot of the repo as it was when I last used it. It is not maintained anymore.
+
+Last used version of OSX Sequoia, that I used with these dotfiles, was 15.7.3 (released on December 12, 2025).
+
+My current dotfiles are located at https://github.com/jansroka/dotfiles.
+
+Original README.md follows below.
+
 # dotfiles
 
 These are my dotfiles for OSX Sequoia. There are many like them, but these ones are mine.
